@@ -1,0 +1,70 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+.logo{
+	float:left;
+	padding-left:160px;
+	padding-right:200px;
+}
+.menubar{
+	padding-top: 100px;
+	padding-left: 160px;
+	
+}
+.menubar li{
+	list-style: none;
+	float: left;
+	padding-right:30px;
+	padding-left: 30px;
+	
+}
+.menubar ul li a{
+	text-decoration: none;
+	text-decoration-line: none;
+	color:black;
+	
+}
+.menubar ul li a:hover{
+	background-color: rgb(243, 243, 115);
+}
+.label{
+	margin-top: -220px;
+	padding-left: 10px;
+	
+}
+.label p{
+	color:white;
+	background-color:teal;
+	width: 135px;
+}
+.label h4{
+	color:white;
+	
+}
+.parag {
+	float:right;
+	padding-right:20px;
+}
+.parag a{
+	color: black;
+	text-decoration: none;
+	text-decoration-line: none;
+}
+.footerbox{
+	height: 90px;
+	width:150px;
+	color:black;
+	background-color: rgb(195, 210, 211);
+}
+li a{
+	color: black;
+	text-decoration-line: none;
+	text-decoration: none;
+}
+.somedia{
+	padding-top:20px;
+}
+.row .picture{
+	width: 30px;
+}
