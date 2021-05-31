@@ -1,0 +1,60 @@
+<INCLURE(header)>
+
+	<div class="container" style="padding-top: 80px;">
+		<!-- Example row of columns -->
+		<div class="lab">
+
+		</div>
+
+		<div class="row pt-2">
+			<hr>
+			<div class="col-md-8">
+				<h4>Imyidagaduro</h4>
+
+				<div class="row">
+					<div class="col-md-12">
+					<BOUCLES_amakuru(ARTICLES){id_rubrique}{par date}{inverse}>	
+						
+					<div class="row mt-3">
+							
+							<div class="col-md-4">
+								<div class="picture">
+									<img src="[(#LOGO_ARTICLE|extraire_attribut{src})]" style="width:230px;height:230px;">
+								</div>
+							</div>
+							<div class="col-md-8">
+								<div class="par" style="float: right;">
+									<a href="#URL_ARTICLE"><b>
+											<h5 style="color: black;">#TITRE<h5>
+										</b></a>
+									<p style="font-family:Times New Roman">[(#TEXTE|couper{200,...})]
+										<a href="#" style="color:chocolate; float: right;">Read more</a>
+									</p>
+
+
+								</div>
+							</div>
+						</div>
+					</BOUCLES_amakuru>
+
+
+					</div>
+					<br>
+				</div>
+				<hr>
+				
+
+			</div>
+			<div class="col-md-4" style="padding-left:60px;">
+				<h4 style="text-align: center;">KWAMAMAZA</h4>
+				<hr>
+
+				<img src="img/advert.gif">
+			</div>
+		</div>
+
+	</div> <!-- /container -->
+
+	</main>
+
+<INCLURE(footer)>

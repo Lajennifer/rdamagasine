@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+	<title>Rdamagazine</title>
+
+	<link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/jumbotron/">
+
+	<!-- Bootstrap core CSS -->
+	<link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- Custom styles for this template -->
+
+	<link href="css/jumbotron.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-white">
+		<div class="logo">
+			<img src="images/logo.png">
+		</div>
+		<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+
+
+			<div class="banner" style="float:right;">
+				<img src="images/hosting.gif">
+			</div>
+
+		</div>
+	</nav>
+
+	<main role="main" style="border: 1px solid black;">
+
+		<div class="menubar">
+			<hr size="3" width="90%" color="#F3A31C">
+			<ul>
+				<li><a href="#URL_SITE_SPIP">IREMBO</a></li>
+				<BOUCLE_menubar(RUBRIQUES){id_parent=8}>
+					<li><a href="#URL_RUBRIQUE">#TITRE</a></li>
+				</BOUCLE_menubar>
+			</ul>
+		</div>
