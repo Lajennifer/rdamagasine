@@ -1,0 +1,62 @@
+a:2:{s:9:"nom_cache";s:38:"9a3cd961f75610e3ef8da54bccff7b3b.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_0caead67327defaf94febb642f511490";s:6:"source";s:24:"squelettes/rubrique.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"9a3cd961f75610e3ef8da54bccff7b3b.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1554:"<?php echo recuperer_fond( 'header', array('lang' => 'fr'), array("compil"=>array('squelettes/rubrique.html','html_0caead67327defaf94febb642f511490','',1,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+	<div class="container" style="padding-top: 80px;">
+		<!-- Example row of columns -->
+		<div class="lab">
+
+		</div>
+
+		<div class="row pt-2">
+			<hr>
+			<div class="col-md-8">
+				<h4>Imyidagaduro</h4>
+
+				<div class="row">
+					<div class="col-md-12">
+						
+						
+					<div class="row mt-3">
+							
+							<div class="col-md-4">
+								<div class="picture">
+									<img src="" style="width:230px;height:230px;">
+								</div>
+							</div>
+							<div class="col-md-8">
+								<div class="par" style="float: right;">
+									<a href="spip.php?article6"><b>
+											<h5 style="color: black;">intro<h5>
+										</b></a>
+									<p style="font-family:Times New Roman">
+										<a href="#" style="color:chocolate; float: right;">Read more</a>
+									</p>
+
+
+								</div>
+							</div>
+						</div>
+					
+
+
+					</div>
+					<br>
+				</div>
+				<hr>
+				
+
+			</div>
+			<div class="col-md-4" style="padding-left:60px;">
+				<h4 style="text-align: center;">KWAMAMAZA</h4>
+				<hr>
+
+				<img src="img/advert.gif">
+			</div>
+		</div>
+
+	</div> <!-- /container -->
+
+	</main>
+
+<?php echo recuperer_fond( 'footer', array('lang' => 'fr'), array("compil"=>array('squelettes/rubrique.html','html_0caead67327defaf94febb642f511490','',60,$GLOBALS['spip_lang'])), _request("connect"));
+?>";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:9:"rubrique4";s:0:"";s:11:"id_rubrique";s:1:"4";s:4:"date";s:19:"2021-05-27 18:51:54";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2021-05-27 18:51:54";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1622134313;s:2:"gz";b:0;s:3:"sig";i:3098456221;}}

@@ -1,0 +1,95 @@
+a:2:{s:9:"nom_cache";s:38:"7b98e525f770998213adc5bad0f66a23.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_de73ac1959c9def1e4464b2460e958b8";s:6:"source";s:22:"squelettes/footer.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"7b98e525f770998213adc5bad0f66a23.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:2677:"<!-- Footer -->
+<footer class="page-footer font-small green pt-4" style="background-color: rgb(193, 217, 218);padding-left:180px;">
+
+	<!-- Footer Links -->
+	<div class="container-fluid text-center text-md-left">
+
+		<!-- Grid row -->
+		<div class="row">
+
+			<!-- Grid column -->
+			<div class="col-md-4 mt-md-0 mt-3">
+				<h5 class="text-uppercase">IBIRIMO</h5>
+
+				<ul class="list-unstyled">
+					<li>
+						<a href="#!" style="color: black;">Irembo</a>
+					</li>
+					<li>
+						<a href="#!" style="color: black;">Imyidagaduro</a>
+					</li>
+					<li>
+						<a href="#!" style="color: black;">Inkuru Zicukumbuye</a>
+					</li>
+					<li>
+						<a href="#!" style="color: black;">Imikino</a>
+					</li>
+				</ul>
+			</div>
+			<!-- Grid column -->
+
+			<hr class="clearfix w-100 d-md-none pb-3">
+
+			<!-- Grid column -->
+			<div class="col-md-4 mb-md-0 mb-3">
+				<p> Tweets by Rwanda_Magazine</p>
+				<a class="twitter-timeline" data-height="200" data-theme="dark"
+					href="https://twitter.com/jpngabonziza?ref_src=twsrc%5Etfw">Tweets by jpngabonziza</a>
+				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+			<!-- Grid column -->
+
+			<!-- Grid column -->
+			<div class="col-md-4 mb-md-0 mb-3">
+
+				<!-- Links -->
+				<h5 class="text-uppercase">CONTACT US</h5>
+
+				<ul class="list-unstyled">
+					<li>
+						<a href="#!" style="color: black;">Rwanda Magazine</a>
+					</li>
+					<li>
+						<a href="#!" style="color: black;">Kigali City - Rwanda</a>
+					</li>
+					<li>
+						<a href="#!" style="color: black;">
+							info@rwandamagazine.com</a>
+					</li>
+					<li>
+						<a href="#!" style="color: black;">
+							(+250) 788 696 317</a>
+					</li>
+				</ul>
+
+			</div>
+			<!-- Grid column -->
+
+		</div>
+		<!-- Grid row -->
+
+	</div>
+	<!-- Footer Links -->
+	<hr>
+
+	<!-- Copyright -->
+	<div class="footer-copyright text-center py-3">© 2020 Copyright:
+		<!-- <a href="https://mdbootstrap.com/"> MDBootstrap.com</a> -->
+	</div>
+	<!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="dist/js/jquery-3.2.1.slim.min.js"
+	integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+	crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+<script src="dist/js/popper.min.js"></script>
+<script src="dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2021-05-27 18:51:19";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2021-05-27 18:51:19";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1622134278;s:2:"gz";b:0;s:3:"sig";i:273117066;}}

@@ -1,0 +1,60 @@
+a:2:{s:9:"nom_cache";s:38:"e17b2e0d6f184bd9e9b7a65d70e267ed.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_80f428b735eb958cf1c478827c0b168a";s:6:"source";s:22:"squelettes/header.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"e17b2e0d6f184bd9e9b7a65d70e267ed.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1603:"<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+	<title>Rdamagazine</title>
+
+	<link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/jumbotron/">
+
+	<!-- Bootstrap core CSS -->
+	<link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- Custom styles for this template -->
+
+	<link href="css/jumbotron.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-white">
+		<div class="logo">
+			<img src="images/logo.png">
+		</div>
+		<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+
+
+			<div class="banner" style="float:right;">
+				<img src="images/hosting.gif">
+			</div>
+
+		</div>
+	</nav>
+
+	<main role="main" style="border: 1px solid black;">
+
+		<div class="menubar">
+			<hr size="3" width="90%" color="#F3A31C">
+			<ul>
+				<li><a href="http://localhost/rdamagasine">IREMBO</a></li>
+				
+					<li><a href="spip.php?rubrique1">AMAKURU</a></li>
+				
+					<li><a href="spip.php?rubrique2">IMYIDAGADURO</a></li>
+				
+					<li><a href="spip.php?rubrique3">URUKUNDO</a></li>
+				
+					<li><a href="spip.php?rubrique4">UBUZIMA</a></li>
+				
+					<li><a href="spip.php?rubrique5">IMIKINO</a></li>
+				
+					<li><a href="spip.php?rubrique7">UMURIMO</a></li>
+				
+			</ul>
+		</div>";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2021-05-27 18:51:19";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2021-05-27 18:51:19";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1622134278;s:2:"gz";b:0;s:3:"sig";i:2748508279;}}

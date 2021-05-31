@@ -1,0 +1,79 @@
+a:2:{s:9:"nom_cache";s:38:"d891b64b2ed620fa3e87f707aa01253a.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_acfb689da8b7f0df9e71fabce85f186f";s:6:"source";s:23:"squelettes/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"d891b64b2ed620fa3e87f707aa01253a.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:3778:"
+	<?php echo recuperer_fond( 'header', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',2,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+		<div class="container" style="padding-top: 80px;">
+			<!-- Example row of columns -->
+			<div class="lab">
+
+			</div>
+
+			<div class="row pt-2">
+
+				<hr>
+				<div class="col-md-8">
+					<div class="label" style="padding-top: 180px;">
+						<p style="padding-left:20px;">MU RWANDA</p>
+					</div>
+					<h4><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac placerat est.</b></h4>
+
+					<div class="row">
+						<div class="col-md-12">
+							<img src="IMG/arton7.jpg?1622131998" style="width:px;height:485px;padding-right:20px">
+							<p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac placerat est. Nunc quis metus vel felis sollicitudin efficitur. Aliquam luctus ultrices velit, id sollicitudin ligula hendrerit sed. Donec et luctus sapien, in rutrum dolor. Suspendisse potenti. Ut elementum eu leo facilisis pharetra. Integer scelerisque nunc vitae ligula consequat, et malesuada enim malesuada. Suspendisse dui elit, consequat ac eros eu, mollis egestas dui. Quisque ultrices libero vitae orci aliquam porttitor. Donec quis arcu ante.</p>
+<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris sed lorem eget mi sollicitudin semper. Vestibulum efficitur id augue vitae tempus. Duis non odio odio. Nam in tortor ac ex aliquam tempor. Nam ultrices, lorem id viverra consequat, leo libero elementum tortor, a facilisis nunc mi ut justo. Nunc dolor purus, imperdiet quis ante a, bibendum egestas odio. Quisque consectetur tellus mauris, vel posuere urna auctor sit amet. Quisque porta orci id mauris sagittis mattis. Cras ullamcorper aliquam sodales. In quis pulvinar risus, eu viverra eros. Praesent nec massa scelerisque, cursus enim id, pellentesque lorem. Nam congue quam id commodo ultrices. Suspendisse mollis iaculis neque a eleifend. Proin congue mattis tristique. Curabitur eleifend porta diam vel fringilla.</p>
+							</p>
+
+						</div>
+						<div class="somedia">
+							<img src="img/facebook.webp" style="width:40px;">
+							<img src="img/twitter.webp" style="width:40px;">
+							<img src="img/mail.webp" style="width:40px;">
+							<img src="img/linkedin.webp" style="width:40px;">
+							<img src="img/pinterest.webp" style="width:40px;">
+						</div>
+						<br>
+					</div>
+
+					<hr>
+
+					<div class="row" style="padding-top:20px;padding-bottom:30px;">
+						<div class="col-md-12">
+							<form>
+								<h4>TANGA IBITEKEREZO</h4>
+								<hr>
+								<div class="row">
+									<div class="col">
+										<input type="text" class="form-control" placeholder="Amazina*">
+									</div>
+									<div class="col">
+										<input type="text" class="form-control" placeholder="Email">
+									</div>
+								</div><br>
+								<div class="row" style="padding-left:15px;width:745px;height:90px">
+									<input type="text" class="form-control" placeholder="Andika Ubutumwa">
+								</div><br>
+								<div class="butt" style="float:right;">
+									<button type="submit" class="btn btn-warning mb-2">OHEREZA</button>
+								</div>
+							</form>
+						</div>
+					</div>
+
+				</div>
+				<div class="col-md-4" style="padding-left:60px;">
+					<h4 style="text-align: center;">KWAMAMAZA</h4>
+					<hr>
+
+					<img src="img/advert.gif">
+				</div>
+			</div>
+
+		</div> <!-- /container -->
+
+		</main>
+
+		<?php echo recuperer_fond( 'footer', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',75,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:8:"article7";s:0:"";s:10:"id_article";s:1:"7";s:4:"date";s:19:"2021-05-27 18:51:18";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2021-05-27 18:51:18";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1622134278;s:2:"gz";b:0;s:3:"sig";i:385572326;}}
